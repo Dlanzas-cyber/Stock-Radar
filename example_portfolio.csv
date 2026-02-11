@@ -1,0 +1,11 @@
+Ticker,Acciones,Precio_Compra,Valor_Actual,Sector,Euros_Invertidos
+RKLB,10,68.50,73.54,Aerospace,685.00
+META,2,620.00,670.00,Technology,1240.00
+KO,15,75.00,78.51,Consumer Staples,1125.00
+PG,8,155.00,158.61,Consumer Staples,1240.00
+JPM,3,305.00,310.16,Financial,915.00
+CVX,5,175.00,179.23,Energy,875.00
+O,6,60.50,63.36,Real Estate,363.00
+TROW,8,92.00,94.58,Financial,736.00
+JNJ,4,235.00,237.79,Healthcare,940.00
+PEP,7,165.00,167.53,Consumer Staples,1155.00
